@@ -7,3 +7,5 @@ Our solution is to train a machine learning model with normal pneumonia x-ray da
 We will be doing transfer learning using a pre-trained  Model known as InceptionV3. 
 
 We managed to obtain a model accuracy of 93.94% based on our test dataset.
+
+Colab Link : https://colab.research.google.com/drive/1vU2gdGN7A3uYI3WU8gKCcE2bYXfs6jph?usp=sharing
