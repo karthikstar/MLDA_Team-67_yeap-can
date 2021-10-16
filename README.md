@@ -1,4 +1,4 @@
-# MLDA_Team-67---yeap-can
+# MLDA_Team 67 yeap can
 
 The COVID-19 pandemic has disrupted the way of life for billions of people around the world. COVID-19 pneumonia is a serious illness that can be deadly. Given the situation above, we felt it was apt to work on pneumonia detection which could help doctors to more accurately detect pneumonia from chest x-ray images. 
 
